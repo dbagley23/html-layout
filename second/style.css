@@ -1,0 +1,13 @@
+.left {
+    width: 60%;
+    height: 100%;
+    display: inline-block;
+    background-Color: #32add7;
+}
+
+.right {
+    width: 39%;
+    height: 100%;
+    display: inline-block;
+    background-Color: #0be6c1;
+}
